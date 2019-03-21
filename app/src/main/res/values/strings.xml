@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="title_notes">Notes</string>
+
+    <string name="tasksFragment">Fragment tasks</string>
+    <string name="notesFragment">Fragment notes</string>
+
+</resources>
